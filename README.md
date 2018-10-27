@@ -1,2 +1,2 @@
-# Pig game/n a tutorial project
 # Pig game
+a tutorial project
